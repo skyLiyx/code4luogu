@@ -1,4 +1,7 @@
 # Compiled class file
+out
+.idea
+Test.java
 *.class
 
 # Log file
