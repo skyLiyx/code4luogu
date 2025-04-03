@@ -1,2 +1,3 @@
 # code4luogu
-algorithm problems from luogu.
+
+洛谷题库的解题方案。仅记录个人题解，方法不一定是最优。
